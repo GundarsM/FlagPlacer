@@ -1,7 +1,7 @@
    // #define DEBUG
     #define MAXSPEED 150
     #define CONVEYERSTEP 246//247 - straadaaja labi
-    #define TENMETERS 296 //20m // 322-22m //161 - 10m //pulses on encoder
+    #define TENMETERS 161 //296 //20m // 322-22m //161 - 10m //pulses on encoder
     #define DEBTIME 3
     
     //MOTOR 3 - MAIN FOR MOVING FORWARD OR BACK
